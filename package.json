@@ -1,5 +1,6 @@
 {
   "name": "pokemon-web",
+  "autor":"Gilberto Gonçalves de Lima",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
